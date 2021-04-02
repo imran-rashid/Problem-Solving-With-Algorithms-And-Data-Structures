@@ -1,2 +1,4 @@
-# Problem-Solving-With-Algorithms-And-Data-Structures
-Fundamentals of Algorithms, Data Structures, and Problem Solving with Python
+### Table of Contents
+
+- [Introduction](./Chapter 1 — Introduction)
+- [Proper Python class](./Chapter 2 — Proper Python Class)
